@@ -1,0 +1,12 @@
+[package]
+name = "rlox"
+version = "0.1.1"
+authors = ["Prashant Bhushan Singh <singhpra@fb.com>"]
+edition = "2018"
+
+
+[dependencies]
+
+
+[profile.release]
+lto = true

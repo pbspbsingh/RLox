@@ -1,0 +1,11 @@
+# Test Rlox script
+let x = 5.23;
+let y = 10 + 2;
+let abc = y + z * a % (b - c / 10);
+
+let a = 'kutta';
+{
+    2 * 23 / 2 + 3;
+    3 - 2
+}
+
